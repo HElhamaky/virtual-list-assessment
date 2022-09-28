@@ -1,0 +1,10 @@
+.viewport {
+  width: auto;
+  overflow-y: auto;
+}
+.item {
+  height: 20px;
+  display: flex;
+  width: auto;
+  justify-content: space-around;
+}
